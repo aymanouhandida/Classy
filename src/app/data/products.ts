@@ -12,12 +12,12 @@ export const products: Product[] = [
   // Clothing
   {
     id: 1,
-    name: "Classic Oxford Shirt",
+    name: "Classic Fluid Shirt",
     category: "men",
     type: "clothing",
-    price: 89,
-    image: "https://i.postimg.cc/G3Y0cVFW/Preppy-style-with-classy-details.png",
-    description: "Timeless white Oxford shirt in premium cotton"
+    price: 125,
+    image: "/images/chemises.png",
+    description: "Premium satin-finish button-up shirt featuring an elegant draped silhouette and rolled cuffs, available in six timeless tones"
   },
   {
     id: 2,
