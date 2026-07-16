@@ -167,12 +167,12 @@ export const products: Product[] = [
   },
   {
     id: 18,
-    name: "Slim Suit Trousers",
+    name: "y Modern Pinstripe Set",
     category: "men",
     type: "clothing",
-    price: 165,
-    image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Slim-cut suit trousers in charcoal grey"
+    price: 220,
+    image: "/images/outfit.png",
+    description: "A sophisticated two-piece ensemble featuring a tailored monochrome pinstripe shirt and high-waisted"
   },
   // More accessories
   {
