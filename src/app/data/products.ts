@@ -17,16 +17,16 @@ export const products: Product[] = [
     type: "clothing",
     price: 125,
     image: "/images/chemises.png",
-    description: "Premium satin-finish button-up shirt featuring an elegant draped silhouette and rolled cuffs, available in six timeless tones"
+    description: "button-up shirt featuring an elegant draped silhouette and rolled cuffs"
   },
   {
     id: 2,
-    name: "Tailored Blazer",
+    name: "Modern Mandarin Jacket",
     category: "men",
     type: "clothing",
-    price: 299,
-    image: "https://images.unsplash.com/photo-1712773663204-9dce38ddae57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBtZW5zJTIwYmxhemVyJTIwYnJvd258ZW58MXx8fHwxNzczODc2NTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    description: "Elegant brown blazer with refined tailoring"
+    price: 290,
+    image: "/images/chinise.png",
+    description: "Blazer elegant mandarin collar,minimalist silver toggle closures"
   },
   {
     id: 3,

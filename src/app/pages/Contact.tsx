@@ -259,7 +259,7 @@ export function Contact() {
                   {
                     icon: <Phone className="w-4 h-4 text-[#3d3026]" />,
                     title: "WhatsApp",
-                    detail: "+212 6XX XXX XXX",
+                    detail: "+212 6 24 84 44 97",
                   },
                 ].map((item, i) => (
                   <motion.div

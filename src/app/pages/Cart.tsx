@@ -311,7 +311,7 @@ export function Cart() {
                           { key: "firstName", label: "First Name", placeholder: "Ayman" },
                           { key: "lastName", label: "Last Name", placeholder: "Ouhandida" },
                           { key: "email", label: "Email Address", placeholder: "ayman@example.com", full: true },
-                          { key: "phone", label: "Phone Number", placeholder: "+212 6XX XXX XXX" },
+                          { key: "phone", label: "Phone Number", placeholder: "+212 6 24 84 44 97" },
                           { key: "address", label: "Street Address", placeholder: "123 Avenue Mohammed V", full: true },
                           { key: "city", label: "City", placeholder: "Rabat" },
                           { key: "postal", label: "Postal Code", placeholder: "10000" },
