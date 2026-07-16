@@ -30,57 +30,57 @@ export const products: Product[] = [
   },
   {
     id: 3,
-    name: "Cashmere Sweater",
+    name: "Signature Wrap Jacket",
     category: "men",
     type: "clothing",
-    price: 189,
-    image: "https://images.unsplash.com/photo-1766727923658-ae4d4d837239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBrbml0d2VhciUyMHN3ZWF0ZXIlMjBjcmVhbXxlbnwxfHx8fDE3NzM4NzY1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    description: "Luxurious cream cashmere sweater"
+    price: 200,
+    image: "/images/Design sans titre (4).png",
+    description: "Timeless grey collarless overshirt crafted for versatile styling"
   },
   {
     id: 4,
-    name: "Tailored Trousers",
+    name: "Classic Knit Cardigan",
     category: "men",
     type: "clothing",
-    price: 149,
-    image: "https://images.unsplash.com/photo-1565728769229-e6e5b989a824?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0YWlsb3JlZCUyMHRyb3VzZXJzJTIwYmVpZ2V8ZW58MXx8fHwxNzczODc2NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    description: "Classic beige tailored trousers"
+    price: 145,
+    image: "/images/Design sans titre (3).png",
+    description: "Premium rib-knit buttoned cardigan in a timeless olive green"
   },
   {
     id: 5,
-    name: "Polo Shirt",
+    name: "Classic Knit Vest",
     category: "men",
     type: "clothing",
-    price: 79,
-    image: "https://images.unsplash.com/photo-1644860588182-0998b4ef5587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIwcG9sbyUyMHNoaXJ0JTIwd2hpdGV8ZW58MXx8fHwxNzczODc2NTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    description: "Essential white polo shirt"
+    price: 100,
+    image: "/images/Design sans titre (7).png",
+    description: "Premium V-neck sleeveless sweater in a soft, elegant cream tone"
   },
   {
     id: 6,
-    name: "Linen Summer Shirt",
+    name: "Striped Quarter-Zip Sweater",
     category: "men",
     type: "clothing",
-    price: 95,
-    image: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Breathable linen shirt in warm sand tones"
+    price: 150,
+    image: "/images/Trico.png",
+    description: "Premium rib-knit half-zip pullover featuring timeless nautical cream and black stripes"
   },
   {
     id: 7,
-    name: "Wool Overcoat",
-    category: "men",
-    type: "clothing",
-    price: 420,
-    image: "https://images.unsplash.com/photo-1544923246-77307dd654cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Heritage wool overcoat in camel brown"
-  },
-  {
-    id: 8,
-    name: "Chino Trousers",
+    name: "Classic Pique Polo Shirt",
     category: "men",
     type: "clothing",
     price: 120,
-    image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Slim-fit chinos in neutral olive"
+    image: "/images/Design sans titre (8).png",
+    description: "Premium cotton-pique polo shirts featuring a timeless tailored fit, available in four rich heritage tones"
+  },
+  {
+    id: 8,
+    name: "Classic Tailored Trousers",
+    category: "men",
+    type: "clothing",
+    price: 185,
+    image: "/images/Design sans titre (6).png",
+    description: "Refined slim-fit trousers with sharp front pleats and a structured waistband"
   },
   // Accessories
   {
@@ -88,7 +88,7 @@ export const products: Product[] = [
     name: "Oxford Shoes",
     category: "men",
     type: "accessories",
-    price: 219,
+    price: 200,
     image: "https://images.unsplash.com/photo-1772678144516-4fddf7635ab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIwbWVucyUyMG94Zm9yZCUyMHNob2VzfGVufDF8fHx8MTc3Mzg3NjUyMXww&ixlib=rb-4.1.0&q=80&w=1080",
     description: "Premium leather Oxford shoes"
   },
@@ -112,21 +112,21 @@ export const products: Product[] = [
   },
   {
     id: 12,
-    name: "Classic Watch",
+    name: "Classic Leather Travel Wallet",
     category: "men",
     type: "accessories",
-    price: 350,
-    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Timeless dress watch with leather strap"
+    price: 80,
+    image: "/images/da332507-7805-4110-91b5-2746cb011d4c.jpg",
+    description: "wallet featuring clean-cut stitching and structured compartments for your daily essentials"
   },
   {
     id: 13,
-    name: "Suede Loafers",
+    name: "Classic Newsboy Cap",
     category: "men",
     type: "accessories",
-    price: 185,
-    image: "https://images.unsplash.com/photo-1614252369475-531eba835eb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Supple suede loafers in tan"
+    price: 75,
+    image: "/images/2d5d48ca-33b2-4478-bdb7-01bf8aa65049.jpg",
+    description: "newsboy cap featuring a timeless grey herringbone wool pattern and a refined central button"
   },
   {
     id: 14,
@@ -140,30 +140,30 @@ export const products: Product[] = [
   // More clothing
   {
     id: 15,
-    name: "Merino Turtleneck",
+    name: "Ribbed Quarter-Zip Polo",
     category: "men",
     type: "clothing",
-    price: 145,
-    image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Slim merino wool turtleneck in warm oatmeal"
+    price: 180,
+    image: "/images/polos.png",
+    description: "Premium heavy rib-knit polo shirt with a modern half-zip collar and structured cuffs"
   },
   {
     id: 16,
-    name: "Houndstooth Blazer",
+    name: "Classic Harrington Jacket",
     category: "men",
     type: "clothing",
-    price: 340,
-    image: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Heritage houndstooth pattern blazer in navy"
+    price: 265,
+    image: "/images/Design sans titre (5).png",
+    description: "Premium structured zip-up jacket featuring a refined fold-down collar and sleek welt pockets"
   },
   {
     id: 17,
-    name: "Formal Dress Shirt",
+    name: "Classic Double-Breasted Coat",
     category: "men",
     type: "clothing",
-    price: 110,
-    image: "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Crisp white poplin dress shirt with fine stitching"
+    price: 320,
+    image: "/images/Design sans titre (2).png",
+    description: "Premium double-breasted long coat featuring a rich textured wool finish, elegant notched lapels"
   },
   {
     id: 18,
@@ -177,30 +177,30 @@ export const products: Product[] = [
   // More accessories
   {
     id: 19,
-    name: "Leather Gloves",
+    name: "Classic Silver Link Watch",
     category: "men",
     type: "accessories",
-    price: 85,
-    image: "https://images.unsplash.com/photo-1545594861-3bef43ff0c15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Supple Italian leather gloves in cognac"
+    price: 200,
+    image: "/images/d157c22321364641eb755d005189ff77.jpg",
+    description: "Sleek and timeless stainless steel watch "
   },
   {
     id: 20,
-    name: "Pocket Square",
+    name: "Classic Onyx Signet Ring",
     category: "men",
     type: "accessories",
     price: 35,
-    image: "https://images.unsplash.com/photo-1598032895397-b9472444bf93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Hand-rolled linen pocket square in ivory"
+    image: "/images/f5be4d6001a70b2e388ebbbb3ec0aa1b.jpg",
+    description: "Premium stainless steel signet ring featuring a polished deep black inlay"
   },
   {
     id: 21,
-    name: "Canvas Tote Bag",
+    name: "Classic Riviera Sunglasses",
     category: "men",
     type: "accessories",
-    price: 95,
-    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-    description: "Heavy canvas tote with leather handles"
+    price: 75,
+    image: "/images/76939fac1dace477f27d3e7374f6f273.jpg",
+    description: "Premium round acetate sunglasses featuring a polished black frame paired "
   }
 ];
 
