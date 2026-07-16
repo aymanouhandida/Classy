@@ -16,7 +16,7 @@ export const products: Product[] = [
     category: "men",
     type: "clothing",
     price: 89,
-    image: "https://images.unsplash.com/photo-1739487599425-0283f6f0ce4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGFzc2ljJTIwd2hpdGUlMjBzaGlydCUyMGhhbmdpbmd8ZW58MXx8fHwxNzczODc2NTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    image: "https://i.postimg.cc/G3Y0cVFW/Preppy-style-with-classy-details.png",
     description: "Timeless white Oxford shirt in premium cotton"
   },
   {
